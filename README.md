@@ -11,13 +11,18 @@
 ```
 Just another guy from the internet.
 
-## What I can do by now:
-  - Play the piano (not very well, but quite alright)
-  - Sing
-  - Code in...
-    * Python (mainly)
-    * APL
-    * JavaScript
-    * C++ (a lil bit)
-  - Use English (I'm Russian)
-  - Pbl some other stuff, just forgetting to put it here
+## Langs
+| Name       | Knowledge level |
+|------------|:---------------:|
+| Python     | Very high       |
+| JavaScript | Average         |
+| APL        | Average         |
+| V          | Beginner        |
+| Rust       | Beginner        |
+| Brainfuck  | Well...         |
+| C++        | No, thanks      |
+
+## Skills
++ Playing the piano
++ Singing
++ Gaming (It counts, right?..)

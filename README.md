@@ -25,4 +25,4 @@ Just another guy from the internet.
 ## Skills
 + Playing the piano
 + Singing
-+ Gaming (It counts, right?..)
++ Gaming _(It counts, right?..)_

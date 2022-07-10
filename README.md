@@ -25,4 +25,9 @@ Just another guy from the internet.
 ## Skills
 + Playing the piano
 + Singing
-+ Gaming _(It counts, right?..)_
++ Speedrunning (Very important skill, totally not a space-filler)
+   + Half-Life 2 [OE [any% Scripted]]
+   + Super Mario Bros 1/2/3 [any%]
+   + Super Mario World 1 [0 exit] (Yea, I'm a huge fan)
+   + Nuclear Throne [any%]
++ Coding (Oh, really?)

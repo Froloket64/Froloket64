@@ -31,3 +31,6 @@ Just another guy from the internet.
    + Super Mario World 1 [0 exit] (Yea, I'm a huge fan)
    + Nuclear Throne [any%]
 + Coding (Oh, really?)
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)

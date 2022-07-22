@@ -14,7 +14,7 @@ Just another guy from the internet.
 ## Langs
 | Name       | Knowledge level |
 |------------|:---------------:|
-| [Python](https://img.shields.io/badge/-Python-lightblue?logo=python&style=for-the-badge)     | Very high       |
+| ![Python](https://img.shields.io/badge/-Python-lightblue?logo=python&style=for-the-badge)     | Very high       |
 | JavaScript | Average         |
 | APL        | Average         |
 | V          | Beginner        |

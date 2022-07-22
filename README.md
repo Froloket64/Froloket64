@@ -15,7 +15,7 @@ Just another guy from the internet.
 | Name       | Knowledge level |
 |------------|:---------------:|
 | ![Python](https://img.shields.io/badge/-Python-lightblue?logo=python&style=for-the-badge)     | Very high       |
-| APL        | Average         |
+| [APL](https://img.shields.io/badge/-APL-white?style=for-the-badge)        | Average         |
 | ![BQN](https://img.shields.io/badge/-BQN-teal?style=for-the-badge)   | Average         |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-lightyellow?logo=javascript&style=for-the-badge) | Beginner         |
 | ![V](https://img.shields.io/badge/-V-lightblue?logo=v&style=for-the-badge)          | Beginner        |

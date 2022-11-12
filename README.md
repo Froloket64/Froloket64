@@ -23,6 +23,8 @@ Just another guy from the internet.
 | ![Brainfuck](https://img.shields.io/badge/-Brainfuck-red?logo=pyg&style=for-the-badge)  | Well...         |
 | ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=for-the-badge)        | No, thanks      |
 
+_Note: Lua is in the list of my most used langs only because of the semi-stolen Neovim config. But I guess that counts?.. ;)_
+
 ## Skills
 + Playing the piano
 + Singing

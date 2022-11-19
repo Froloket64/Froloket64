@@ -27,7 +27,9 @@ _Note: Lua is in the list of my most used langs only because of the semi-stolen 
 
 ## Skills
 + Playing the piano
-+ Singing
++ Playing the drums
++ Academical singing
++ Metal singing
 + Speedrunning (Very important skill, totally not a space-filler)
    + Half-Life 2 [OE [any% Scripted]]
    + Super Mario Bros 1/2/3 [any%]

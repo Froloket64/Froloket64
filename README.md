@@ -26,10 +26,11 @@ Just another guy from the internet.
 _Note: Lua is in the list of my most used langs only because of the semi-stolen Neovim config. But I guess that counts?.. ;)_
 
 ## Skills
-+ Playing the piano
-+ Playing the drums
-+ Academical singing
-+ Metal singing
++ Music
+   + Playing the piano
+   + Playing the drums
+   + Academical singing
+   + Metal singing
 + Speedrunning (Very important skill, totally not a space-filler)
    + Half-Life 2 [OE [any% Scripted]]
    + Super Mario Bros 1/2/3 [any%]

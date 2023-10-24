@@ -37,7 +37,8 @@ Just another guy from the internet.
    + Super Mario Bros 1/2/3 [any%]
    + Super Mario World 1 [0 exit] (Yea, I'm a huge fan)
    + Nuclear Throne [any%]
-+ Coding :)
++ Current WPM of 96 (not to be confused with 69)
++ A little bit of Coding :)
 
 ![](https://raw.githubusercontent.com/Froloket64/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Froloket64/github-stats-transparent/output/generated/languages.svg)

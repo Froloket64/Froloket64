@@ -14,14 +14,15 @@ Just another guy from the internet.
 ## Langs
 ```json
 {
+    "rust": "advanced",
     "python": "advanced",
-    "rust": "intermediate",
     "lua": "intermediate",
+    "uiua": "intermediate",
     "apl": "intermediate",
     "bqn": "intermediate",
     "js": "beginner",
     "brainfuck": "professional",
-    "cpp": "no thanks"
+    "cpp": "no thanks :)"
 }
 ```
 
